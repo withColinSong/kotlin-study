@@ -27,7 +27,7 @@ fun main() {
      * An attempt to use the variable causes a compiler error: Variable 'e' must be initialized.
      */
     var e : Int
-    println(e)  // error
+    //println(e)  // error
 
     /**
      * 3.
